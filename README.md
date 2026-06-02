@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.02 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_Tests/Level_1/Level_1_신고결과받기.py) | 구현 | Success | 재풀이 |
 | 26.05.31 | 프로그래머스 | Level_1 | [[PCCE기출문제]9번](./Programmers/Level_Tests/Level_1/Level_1_[PCCE기출문제]9번.py) | 구현 | Success | |
 | 26.05.31 | 프로그래머스 | Level_1 | [자릿수더하기](./Programmers/Level_Tests/Level_1/Level_1_자릿수더하기.py) | 구현 | Success | |
 | 26.05.31 | 프로그래머스 | Level_1 | [약수의합](./Programmers/Level_Tests/Level_1/Level_1_약수의합.py) | 구현 | Success | |
@@ -69,7 +70,6 @@
 | 26.04.22 | 백준 | 13460 | [구슬탈출2](./Baekjoon/Search/Bfs/13460_구슬탈출2.py) | BFS | 진행 중 | |
 | 26.04.22 | 프로그래머스 | Level_3 | [네트워크](./Programmers/Level_Tests/Level_3/Level_3_네트워크.py) | DFS/BFS | Success | |
 | 26.04.18 | 프로그래머스 | Level_2 | [주차요금계산](./Programmers/Level_Tests/Level_2/Level_2_주차요금계산.py) | 구현 | Success | |
-| 26.04.17 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_Tests/Level_1/Level_1_신고결과받기.py) | 구현 | Success | |
 | 26.04.16 | 백준 | 14503 | [로봇청소기](./Baekjoon/Implementation/14503_로봇청소기.py) | 구현 | Success | 재풀이 |
 | 26.04.16 | 백준 | 2108 | [통계학](./Baekjoon/Implementation/2108_통계학.py) | 구현 | Success | |
 | 26.04.15 | 백준 | 10799 | [쇠막대기](./Baekjoon/Data_Structure/Stack/10799_쇠막대기.py) | 스택 | Success | 고난도 |
