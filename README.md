@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.02 | 프로그래머스 | Level_2 | [구명보트](./Programmers/Level_Tests/Level_2/Level_2_구명보트.py) | 구현 | Success | 재풀이 |
 | 26.06.02 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_Tests/Level_1/Level_1_신고결과받기.py) | 구현 | Success | 재풀이 |
 | 26.05.31 | 프로그래머스 | Level_1 | [[PCCE기출문제]9번](./Programmers/Level_Tests/Level_1/Level_1_[PCCE기출문제]9번.py) | 구현 | Success | |
 | 26.05.31 | 프로그래머스 | Level_1 | [자릿수더하기](./Programmers/Level_Tests/Level_1/Level_1_자릿수더하기.py) | 구현 | Success | |
