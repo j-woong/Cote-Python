@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.08 | 프로그래머스 | Level_2 | [최솟값만들기](./Programmers/Level_Tests/Level_2/Level_2_최솟값만들기.py) | 구현 | Success |  |
 | 26.06.07 | 프로그래머스 | Level_2 | [JadenCase문자열만들기](./Programmers/Level_Tests/Level_2/Level_2_JadenCase문자열만들기.py) | 스택 | Success |  |
 | 26.06.07 | 프로그래머스 | Level_2 | [최댓값과최솟값](./Programmers/Level_Tests/Level_2/Level_2_최댓값과최솟값.py) | 스택 | Success |  |
 | 26.06.07 | 프로그래머스 | Level_1 | [같은숫자는싫어](./Programmers/Level_Tests/Level_1/Level_1_같은숫자는싫어.py) | 스택 | Success | 재풀이 |
