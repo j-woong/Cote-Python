@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.11 | 프로그래머스 | Level_2 | [점프와순간이동](./Programmers/Level_Tests/Level_2/Level_2_점프와순간이동.py) | 구현 | Success |  |
 | 26.06.11 | 프로그래머스 | Level_2 | [귤고르기](./Programmers/Level_Tests/Level_2/Level_2_귤고르기.py) | 구현 | Success |  |
 | 26.06.10 | 프로그래머스 | Level_2 | [짝지어제거하기](./Programmers/Level_Tests/Level_2/Level_2_짝지어제거하기.py) | 구현 | Success |  |
 | 26.06.10 | 프로그래머스 | Level_2 | [피보나치수](./Programmers/Level_Tests/Level_2/Level_2_피보나치수.py) | 구현 | Success |  |
