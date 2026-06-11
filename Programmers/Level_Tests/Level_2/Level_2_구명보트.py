@@ -29,19 +29,21 @@ step4: 보트 카운트
 """
 def solution(people, limit):
     answer = 0
-    people = sorted(people)
+    people.sort()
     
     left = 0
     right = len(people)-1
-    while right >= left:
-        if left == right:
+    
+    while left < right:
+        if people[left] + people[right] > limit:
+            right -= 1
             answer += 1
-            break
-        if people[left] + people[right] <= limit:
-            answer += 1
+            
+        elif people[left] + people[right] <= limit:
             left += 1
             right -= 1
-        else:
             answer += 1
-            right -= 1
+    
+    if left == right:
+        answer += 1
     return answer
