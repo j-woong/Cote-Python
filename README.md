@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.11 | 프로그래머스 | Level_2 | [연속부분수열합의개수](./Programmers/Level_Tests/Level_2/Level_2_연속부분수열합의개수.py) | 구현 | Success |  |
 | 26.06.11 | 프로그래머스 | Level_2 | [N개의최소공배수](./Programmers/Level_Tests/Level_2/Level_2_N개의최소공배수.py) | 구현 | Success |  |
 | 26.06.11 | 프로그래머스 | Level_2 | [멀리뛰기](./Programmers/Level_Tests/Level_2/Level_2_멀리뛰기.py) | DP | Success | 고난도 |
 | 26.06.11 | 프로그래머스 | Level_2 | [점프와순간이동](./Programmers/Level_Tests/Level_2/Level_2_점프와순간이동.py) | 구현 | Success |  |

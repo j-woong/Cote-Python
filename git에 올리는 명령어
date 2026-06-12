@@ -2,7 +2,7 @@
 git add .
 
 # 3. 버전 기록을 남깁니다.
-git commit -m "Solve: 프로그래머스 Level_Tests/Level_2 N개의최소공배수 (구현)"
+git commit -m "Solve: 프로그래머스 Level_Tests/Level_2_연속부분수열합의개수 (구현)"
 
 # 4. 깃허브 온라인 저장소로 보냅니다.
 git push origin main 
