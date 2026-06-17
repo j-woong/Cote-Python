@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.17 | 프로그래머스 | Level_2 | [괄호회전하기](./Programmers/Level_Tests/Level_2/Level_2_괄호회전하기.py) | 구현 | Success |  |
 | 26.06.17 | 프로그래머스 | Level_2 | [할인행사](./Programmers/Level_Tests/Level_2/Level_2_할인행사.py) | 구현 | Success |  |
 | 26.06.15 | 프로그래머스 | Level_2 | [예상대진표](./Programmers/Level_Tests/Level_2/Level_2_예상대진표.py) | 구현 | Success |  |
 | 26.06.15 | 프로그래머스 | Level_2 | [영어끝말잇기](./Programmers/Level_Tests/Level_2/Level_2_영어끝말잇기.py) | 구현 | Success | 고난도 |
