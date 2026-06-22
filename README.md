@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.22 | 프로그래머스 | Level_2 | [행렬의곱셈](./Programmers/Level_Tests/Level_2/Level_2_행렬의곱셈.py) | 구현 | Success | 고난도 |
 | 26.06.22 | 프로그래머스 | Level_2 | [피로도](./Programmers/Level_Tests/Level_2/Level_2_피로도.py) | DFS | Success | 고난도 |
 | 26.06.19 | 프로그래머스 | Level_2 | [H-index](./Programmers/Level_Tests/Level_2/Level_2_H-index.py) | 구현 | Success |  |
 | 26.06.18 | 프로그래머스 | Level_2 | [n^2배열자르기](./Programmers/Level_Tests/Level_2/Level_2_n^2배열자르기.py) | 구현 | Success |  |
