@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.26 | 프로그래머스 | Level_2 | [뒤에있는큰수찾기](./Programmers/Level_Tests/Level_2/Level_2_뒤에있는큰수찾기.py) | 스택 | Success | 고난도 |
 | 26.06.25 | 프로그래머스 | Level_2 | [모음사전](./Programmers/Level_Tests/Level_2/Level_2_모음사전.py) | 완전 탐색 | Success | 고난도 |
 | 26.06.25 | 프로그래머스 | Level_2 | [방문길이](./Programmers/Level_Tests/Level_2/Level_2_방문길이.py) | 구현 | Success | 고난도 |
 | 26.06.24 | 프로그래머스 | Level_2 | [롤케이크자르기](./Programmers/Level_Tests/Level_2/Level_2_롤케이크자르기.py) | 구현 | Success |  |
