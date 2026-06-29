@@ -34,3 +34,13 @@ def solution(citations):
         answer = max(answer,h)
 
     return answer
+
+#재풀이 
+def solution(citations):
+    hindex = []
+    citations.sort()
+    0,1,3,5,6
+    for idx,c in enumerate(citations):
+        hindex.append(min(c, len(citations)-idx))
+        
+    return max(hindex)
