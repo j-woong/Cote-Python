@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.06.29 | 프로그래머스 | Level_2 | [멀리뛰기](./Programmers/Level_Tests/Level_2/Level_2_멀리뛰기.py) | DP | Success | 고난도 | 재풀이 |
 | 26.06.29 | 프로그래머스 | Level_2 | [H-index](./Programmers/Level_Tests/Level_2/Level_2_H-index.py) | 구현 | Success | 재풀이 |
 | 26.06.27 | 프로그래머스 | Level_2 | [행렬의곱셈](./Programmers/Level_Tests/Level_2/Level_2_행렬의곱셈.py) | 구현 | Success | 고난도 | 재풀이 |
 | 26.06.27 | 프로그래머스 | Level_2 | [n^2배열자르기](./Programmers/Level_Tests/Level_2/Level_2_n^2배열자르기.py) | 구현 | Success | 재풀이 |
@@ -46,7 +47,6 @@
 | 26.06.15 | 프로그래머스 | Level_2 | [영어끝말잇기](./Programmers/Level_Tests/Level_2/Level_2_영어끝말잇기.py) | 구현 | Success | 고난도 |
 | 26.06.12 | 프로그래머스 | Level_2 | [연속부분수열합의개수](./Programmers/Level_Tests/Level_2/Level_2_연속부분수열합의개수.py) | 구현 | Success |  |
 | 26.06.12 | 프로그래머스 | Level_2 | [N개의최소공배수](./Programmers/Level_Tests/Level_2/Level_2_N개의최소공배수.py) | 구현 | Success |  |
-| 26.06.11 | 프로그래머스 | Level_2 | [멀리뛰기](./Programmers/Level_Tests/Level_2/Level_2_멀리뛰기.py) | DP | Success | 고난도 |
 | 26.06.11 | 프로그래머스 | Level_2 | [점프와순간이동](./Programmers/Level_Tests/Level_2/Level_2_점프와순간이동.py) | 구현 | Success |  |
 | 26.06.11 | 프로그래머스 | Level_2 | [귤고르기](./Programmers/Level_Tests/Level_2/Level_2_귤고르기.py) | 구현 | Success |  |
 | 26.06.10 | 프로그래머스 | Level_2 | [짝지어제거하기](./Programmers/Level_Tests/Level_2/Level_2_짝지어제거하기.py) | 구현 | Success |  |
