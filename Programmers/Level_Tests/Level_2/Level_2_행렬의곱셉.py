@@ -46,3 +46,19 @@ def solution(arr1, arr2):
             R.append(s)
         answer.append(R)
     return answer
+
+# 재풀이
+def solution(arr1, arr2):
+    row = len(arr1) 
+    col = len(arr2[0])
+    match = len(arr2)
+    
+    matrix = [[ 0 for j in range(col)] for i in range(row)]
+    
+    for i in range(row):
+        for j in range(col):
+            for k in range(match):
+                matrix[i][j] += (arr1[i][k] * arr2[k][j])
+                
+            
+    return matrix
