@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.07.01 | 프로그래머스 | Level_2 | [택배상자](./Programmers/Level_Tests/Level_2/Level_2_택배상자.py) | 구현 | Success | 고난도 |  |
 | 26.06.29 | 프로그래머스 | Level_2 | [k진수에서소수개수구하기](./Programmers/Level_Tests/Level_2/Level_2_k진수에서소수개수구하기.py) | 구현 | Success | 고난도 |  |
 | 26.06.29 | 프로그래머스 | Level_2 | [멀리뛰기](./Programmers/Level_Tests/Level_2/Level_2_멀리뛰기.py) | DP | Success | 고난도 | 재풀이 |
 | 26.06.29 | 프로그래머스 | Level_2 | [H-index](./Programmers/Level_Tests/Level_2/Level_2_H-index.py) | 구현 | Success | 재풀이 |
