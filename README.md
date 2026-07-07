@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.07.07 | 프로그래머스 | Level_2 | [2xn타일링](./Programmers/Level_Tests/Level_2/Level_2_2xn타일링.py) | DP | Success | 고난도 | 재풀이 |
 | 26.07.07 | 프로그래머스 | Level_2 | [주차요금계산](./Programmers/Level_Tests/Level_2/Level_2_주차요금계산.py) | 구현 | Success | 고난도 | 재풀이 |
 | 26.07.06 | 프로그래머스 | Level_2 | [스킬트리](./Programmers/Level_Tests/Level_2/Level_2_스킬트리.py) | 구현 | Success | 고난도 |  |
 | 26.07.03 | 프로그래머스 | Level_2 | [숫자변환하기](./Programmers/Level_Tests/Level_2/Level_2_숫자변환하기.py) | BFS | Success |  |  |
